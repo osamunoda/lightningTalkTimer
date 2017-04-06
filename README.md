@@ -6,6 +6,8 @@ Mac Sierra 10.12.4 (Safari10.1 is installed) ~
 or
 iOS10.3 ~
 
+FileMaker ver15 ~
+
 ~ How to use ~
 click or touch the screen of timer, then the timer starts!
 
